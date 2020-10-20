@@ -1,0 +1,25 @@
+body{
+  background-color: coral;
+}
+#descricao, #me{
+  font-style: italic;
+  padding-left:170px;
+}
+#me{
+  font-style:inherit;
+}
+#foto{
+    float:left;
+    border-radius: 80%;
+    padding:10px;
+    background-color:rosybrown;
+}
+h1{
+    margin-left:350px;
+}
+#skills{
+    clear:both;
+}
+#jimmy{
+    border-radius: 50%;
+}
